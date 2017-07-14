@@ -3,4 +3,4 @@
 	url = https://github.com/msgpack/msgpack-c.git
 [submodule "deps/traildb"]
 	path = deps/traildb
-	url = git@github.com:traildb/traildb.git
+	url = https://github.com/traildb/traildb.git
